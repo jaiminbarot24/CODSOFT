@@ -84,7 +84,7 @@ The main objective of this internship was to gain practical exposure to front-en
 
 | Project                            | Live Demo                           |
 |------------------------------------|-------------------------------------|
-| CALCULATOR                         | [View Here](#)                      |
+| CALCULATOR                         | [View Here](https://calculater-opal.vercel.app/)                      |
 | Online Quiz Maker                  | [View Here](#)                      |
 | Project Management Tool            | [View Here](#)                      |
 
