@@ -82,11 +82,11 @@ The main objective of this internship was to gain practical exposure to front-en
 
 ## 🔗 Live Project Links
 
-| Project                            | Live Demo                           |
-|------------------------------------|-------------------------------------|
-| CALCULATOR                         | [View Here](https://calculater-opal.vercel.app/)                      |
-| Online Quiz Maker                  | [View Here](#)                      |
-| Project Management Tool            | [View Here](#)                      |
+| Project                            | Live Demo                                                                     |
+|------------------------------------|-------------------------------------------------------------------------------|
+| CALCULATOR                         | [View Here](https://calculater-opal.vercel.app/)                              |
+| Online Quiz Maker                  | [View Here](https://online-quiz-maker-lilac.vercel.app/)                      |
+| Project Management Tool            | [View Here](#)                                                                |
 
 
 *(Replace # with actual URLs when deployed)*
